@@ -19,6 +19,7 @@ const links = [
     href: "/dashboard/invoices",
     icon: DocumentDuplicateIcon,
   },
+  // helllo
   { name: "Customers", href: "/dashboard/customers", icon: UserGroupIcon },
 ];
 
